@@ -1,0 +1,13 @@
+* {
+    background-color: #fff !important;
+}
+
+.navbar-brand{
+    color: #0c0c0c !important;
+    font-family: 'PT Serif', serif !important;
+}
+
+.nav-link {
+    color: rgb(1, 5, 8) !important;
+    font-family: 'PT Serif', serif !important;
+}
